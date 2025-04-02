@@ -1,0 +1,124 @@
+.desktop {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #71a2b9;
+    border-radius: 30px;
+    overflow: hidden;
+  }
+  
+  .desktop .text-wrapper {
+    width: 724px;
+    top: 367px;
+    left: 84px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 200px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .frame {
+    width: 216px;
+    top: 656px;
+    left: 282px;
+    position: absolute;
+    height: 70px;
+    background-color: #f3e3e2;
+    border-radius: 500px;
+    overflow: hidden;
+  }
+  
+  .desktop .div {
+    top: 13px;
+    left: 27px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 35px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .div-wrapper {
+    width: 271px;
+    top: 656px;
+    left: 537px;
+    position: absolute;
+    height: 70px;
+    background-color: #f3e3e2;
+    border-radius: 500px;
+    overflow: hidden;
+  }
+  
+  .desktop .frame-2 {
+    width: 284px;
+    top: 769px;
+    left: 524px;
+    position: absolute;
+    height: 70px;
+    background-color: #f3e3e2;
+    border-radius: 500px;
+    overflow: hidden;
+  }
+  
+  .desktop .frame-3 {
+    width: 128px;
+    top: 769px;
+    left: 327px;
+    position: absolute;
+    height: 70px;
+    background-color: #f3e3e2;
+    border-radius: 500px;
+    overflow: hidden;
+  }
+  
+  .desktop .frame-4 {
+    width: 151px;
+    top: 656px;
+    left: 96px;
+    position: absolute;
+    height: 70px;
+    background-color: #f3e3e2;
+    border-radius: 500px;
+    overflow: hidden;
+  }
+  
+  .desktop .frame-5 {
+    width: 162px;
+    top: 769px;
+    left: 96px;
+    position: absolute;
+    height: 70px;
+    background-color: #f3e3e2;
+    border-radius: 500px;
+    overflow: hidden;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 914px;
+    left: 160px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .image {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 910px;
+    left: 101px;
+    object-fit: cover;
+  }
+  
